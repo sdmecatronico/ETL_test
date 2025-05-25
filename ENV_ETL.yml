@@ -1,0 +1,10 @@
+name: ETL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - jupyter
+  - plotly::plotly
+prefix: /home/sergio/anaconda3/envs/ETL
